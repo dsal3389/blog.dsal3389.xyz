@@ -1,0 +1,4 @@
+baseURL = 'http://blog.dsal3389.com/'
+languageCode = 'en-us'
+title = 'docs.dsal3389'
+theme = 'fuji'
