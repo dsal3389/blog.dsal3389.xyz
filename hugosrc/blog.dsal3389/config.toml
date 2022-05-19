@@ -1,4 +1,20 @@
 baseURL = 'http://blog.dsal3389.com/'
 languageCode = 'en-us'
 title = 'docs.dsal3389'
-theme = 'fuji'
+theme = 'smol'
+
+[params]
+    subtitle = "Daniel Sonbolians blog website"
+    dateFmt = "02.01.2006"
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "/posts"
+        url = "/posts/"
+        weight = 1
+
+    [[menu.footer]]
+        name = "github"
+        url = "https://github.com/dsal3389"
+        weight = 1
