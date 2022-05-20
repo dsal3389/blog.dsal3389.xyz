@@ -1,4 +1,4 @@
-baseURL = 'http://blog.dsal3389.com/'
+baseURL = 'http://blog.dsal3389.xyz/'
 languageCode = 'en-us'
 title = 'docs.dsal3389'
 theme = 'smol'
