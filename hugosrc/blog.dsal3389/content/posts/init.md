@@ -1,7 +1,7 @@
 ---
 title: "Init"
 date: 2022-05-19T16:32:45+03:00
-slug: 2022-05-19-init
+slug: init
 type: posts
 draft: false
 categories:
