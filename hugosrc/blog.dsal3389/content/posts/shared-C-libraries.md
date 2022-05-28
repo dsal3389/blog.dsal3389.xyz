@@ -176,4 +176,4 @@ void say(const char *msg){
 ```
 
 as we can see, it is a very simple library, it has static buffer called name, it have 2 functions,
-`set_name` and `say`, 
+`set_name` and `say`,
